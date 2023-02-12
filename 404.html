@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.60">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <link rel="icon" href="/vuepress-cpp-notes/favicon.svg"><title>C++ 笔记</title><meta name="description" content="C++ 笔记">
+    <link rel="preload" href="/vuepress-cpp-notes/assets/style-6491b650.css" as="style"><link rel="stylesheet" href="/vuepress-cpp-notes/assets/style-6491b650.css">
+    <link rel="modulepreload" href="/vuepress-cpp-notes/assets/app-5c5eb2a5.js"><link rel="modulepreload" href="/vuepress-cpp-notes/assets/framework-bafc524a.js"><link rel="modulepreload" href="/vuepress-cpp-notes/assets/404.html-f9875e7b.js"><link rel="modulepreload" href="/vuepress-cpp-notes/assets/404.html-d3e026f0.js"><link rel="prefetch" href="/vuepress-cpp-notes/assets/index.html-ae26baba.js" as="script"><link rel="prefetch" href="/vuepress-cpp-notes/assets/index.html-6426141f.js" as="script"><link rel="prefetch" href="/vuepress-cpp-notes/assets/mermaid.esm.min-6068c030.js" as="script"><link rel="prefetch" href="/vuepress-cpp-notes/assets/mermaid-mindmap.esm.min-89a09560.js" as="script"><link rel="prefetch" href="/vuepress-cpp-notes/assets/SearchResult-c0f2f6ef.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><main class="page"><div class="theme-default-content"><h1>404</h1><blockquote>Looks like we&#39;ve got some broken links.</blockquote><a href="/vuepress-cpp-notes/" class="">Take me home</a></div></main></div><!----><!----><!--]--></div>
+    <script type="module" src="/vuepress-cpp-notes/assets/app-5c5eb2a5.js" defer></script>
+  </body>
+</html>
