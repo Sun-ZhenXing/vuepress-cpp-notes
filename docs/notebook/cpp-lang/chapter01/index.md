@@ -1188,7 +1188,7 @@ int main() {
 
 程序的内存布局：
 
-![](https://pic.imgdb.cn/item/629f08cb09475431299a4c53.jpg)
+![内存布局](./images/memery.svg)
 
 - 为什么需要堆空间？
 - 因为这样程序可以自由地控制内存的生命周期、大小
