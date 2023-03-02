@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1ebac047","path":"/opengl/","title":"OpenGL 笔记","lang":"zh-CN","frontmatter":{"title":"OpenGL 笔记","description":"OpenGL 笔记"},"headers":[],"git":{"updatedTime":1677762761000,"contributors":[{"name":"Sun-ZhenXing","email":"1006925066@qq.com","commits":1}]},"filePathRelative":"opengl/index.md","excerpt":""}');export{e as data};
