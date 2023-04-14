@@ -1,3 +1,3 @@
-# OpenGL 笔记
+# CMake 合集
 
 <AutoCatalog />

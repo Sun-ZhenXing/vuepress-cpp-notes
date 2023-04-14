@@ -1,8 +1,3 @@
----
-title: C++ 如何使用 swap 交换数组
-description: C++ 如何使用 swap 交换数组
----
-
 # C++ 如何使用 swap 交换数组
 
 [[TOC]]

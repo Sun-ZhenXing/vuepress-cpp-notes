@@ -1,8 +1,3 @@
----
-title: C 语言可变参数
-description: C 语言可变参数
----
-
 # C 语言可变参数
 
 [[TOC]]

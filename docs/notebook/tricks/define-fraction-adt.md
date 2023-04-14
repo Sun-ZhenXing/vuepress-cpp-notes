@@ -1,8 +1,3 @@
----
-title: C++ 定义分数 ADT
-description: C++ 定义分数 ADT
----
-
 # C++ 定义分数 ADT
 
 [[TOC]]

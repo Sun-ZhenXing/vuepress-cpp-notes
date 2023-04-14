@@ -1,8 +1,3 @@
----
-title: C++ 如何实现 split 字符串
-description: C++ 如何实现 split 字符串
----
-
 # C++ 如何实现 split 字符串
 
 下面提供了几种实现 `split(str)` 的不同方法。

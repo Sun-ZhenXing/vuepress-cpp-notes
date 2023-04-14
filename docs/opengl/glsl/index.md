@@ -1,8 +1,3 @@
----
-title: GLSL 快速入门
-description: GLSL 快速入门
----
-
 # GLSL 快速入门
 
 官方文档：<https://registry.khronos.org/OpenGL-Refpages/gl4/>
