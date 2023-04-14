@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-31f81cfe","path":"/c-lang/","title":"C 语言","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1681453529000,"contributors":[{"name":"Sun-ZhenXing","email":"1006925066@qq.com","commits":2}]},"filePathRelative":"c-lang/index.md","excerpt":""}');export{e as data};

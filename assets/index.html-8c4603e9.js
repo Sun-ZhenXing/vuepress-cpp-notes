@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5a331d38","path":"/c-lang/collections/","title":"C 语言技巧合集","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1681453529000,"contributors":[{"name":"Sun-ZhenXing","email":"1006925066@qq.com","commits":2}]},"filePathRelative":"c-lang/collections/index.md","excerpt":""}');export{e as data};

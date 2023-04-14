@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5a273fd6","path":"/notebook/tricks/define-fraction-adt.html","title":"C++ 定义分数 ADT","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1681453529000,"contributors":[{"name":"Sun-ZhenXing","email":"1006925066@qq.com","commits":2}]},"filePathRelative":"notebook/tricks/define-fraction-adt.md","excerpt":""}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5ddabbe9","path":"/c-lang/c-tutorial/","title":"C 语言教程","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1681453529000,"contributors":[{"name":"Sun-ZhenXing","email":"1006925066@qq.com","commits":2}]},"filePathRelative":"c-lang/c-tutorial/index.md","excerpt":""}');export{t as data};
